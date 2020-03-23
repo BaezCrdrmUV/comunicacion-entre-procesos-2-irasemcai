@@ -1,0 +1,11 @@
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\bin\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.deps.json
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\bin\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.runtimeconfig.json
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\bin\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.runtimeconfig.dev.json
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\bin\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.dll
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\bin\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.pdb
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\obj\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.csprojAssemblyReference.cache
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\obj\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.csproj.CoreCompileInputs.cache
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\obj\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.AssemblyInfoInputs.cache
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\obj\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.AssemblyInfo.cs
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\obj\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.dll
+C:\Users\survi\source\repos\ComunicacionEntreProcesos2\obj\Debug\netcoreapp2.1\ComunicacionEntreProcesos2.pdb
